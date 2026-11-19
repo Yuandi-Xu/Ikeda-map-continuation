@@ -7,4 +7,4 @@ background-dominated, stable localized and unstable modes; blue diamonds mark
 the translational neutral multiplier.
 
 Run `plot_Fig3.m` in MATLAB. Data: `Fig3_data.mat`.
-SVG/PNG files are reference figures.
+The PNG file shows the result of the plotting script.
